@@ -1,0 +1,1 @@
+console.log("Script vindo do head que foi linkado com o arquivo js");

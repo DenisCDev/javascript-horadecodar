@@ -1,0 +1,1 @@
+console.log("Script vindo do final do body linkado com um arquivo js");
